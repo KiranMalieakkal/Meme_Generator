@@ -2,7 +2,7 @@ const Header = () => {
   return (
     <header className="header">
       <img
-        src="./assets/troll-face.png"
+        src="./src/assets/troll-face.png"
         className="header--image"
         alt="No Image"
       />
